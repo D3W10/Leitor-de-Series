@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="./assets/style.css">
+    </head>
+    <body>
+        <div id="app">
+            <div id="frameBar">
+                <div>
+                    <img src="./assets/logoCompact.png">
+                    <span>Leitor de Séries</span>
+                </div>
+                <div>
+                    <div id="minimizeCircle">
+                        <icon name="minimize"></icon>
+                    </div>
+                    <div id="closeCircle">
+                        <icon name="close"></icon>
+                    </div>
+                </div>
+            </div>
+            <div id="appContent">
+                <div id="popups">
+                    <div id="alertPopup">
+                        <h1>null</h1>
+                        <p>null</p>
+                        <button>Okay</button>
+                    </div>
+                    <div id="crashPopup">
+                        <h1>null</h1>
+                        <p>null</p>
+                        <div></div>
+                        <button>Okay</button>
+                    </div>
+                </div>
+                <div id="appSidebar">
+                    <a class="sidebarOption selected" goto="libraryPanel">
+                        <icon name="library"></icon>
+                        <span>Biblioteca</span>
+                    </a>
+                    <a class="sidebarOption" goto="settingsPanel">
+                        <icon name="settings"></icon>
+                        <span>Definições</span>
+                    </a>
+                </div>
+                <div id="appTab">
+                    <div id="libraryPanel">
+                        <pbar id="libraryLoading" class="topPbar" indeterminate></pbar>
+                        <h1>Biblioteca</h1>
+                        <div id="libraryItems" class="serieContainer"></div>
+                    </div>
+                    <div id="seriePanel">
+                        <div id="serieHeader">
+                            <h1>null</h1>
+                            <img>
+                        </div>
+                        <div id="serieContent"></div>
+                        <a id="goToSerie" goto="seriePanel"></a>
+                    </div>
+                    <div id="playerPanel">
+                        <h1>null</h1>
+                        <div id="playerFullscreen">
+                            <iframe></iframe>
+                            <div></div>
+                        </div>
+                        <a id="goToPlayer" goto="playerPanel"></a>
+                    </div>
+                    <div id="settingsPanel">
+                        <h1>Definições</h1>
+                        <div>
+                            <p>Esquema de Cores</p>
+                            <select id="settingsAppearance">
+                                <option value="0">Claro</option>
+                                <option value="1">Escuro</option>
+                            </select>
+                        </div>
+                        <footer>
+                            <p>Versão <span id="settingsVersion">null</span></p>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
