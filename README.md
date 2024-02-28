@@ -31,7 +31,7 @@
 
 ## Sobre
 
-Leitor de Series é uma aplicação *desktop* para reproduzir séries que são fornecidas através de uma API ([v2.0](https://github.com/D3W10/Leitor-de-Series/tree/main)). Em versões anteriores, o Leitor de Séries mostrava as séries disponíveis através da pasta "Leitor de Séries" existente na pasta Documentos, reproduzindo os mesmos localmente através de um VLC embutido ([v1.0](https://github.com/Leitor-de-Series/CosmoChamp/tree/v1.0)).
+Leitor de Series é uma aplicação *desktop* para reproduzir séries que são fornecidas através de uma API ([v2.0](https://github.com/D3W10/Leitor-de-Series/tree/main)). Em versões anteriores, o Leitor de Séries mostrava as séries disponíveis através da pasta "Leitor de Séries" existente na pasta Documentos, reproduzindo os mesmos localmente através de um VLC embutido ([v1.0](https://github.com/D3W10/Leitor-de-Series/tree/v1.0)).
 
 <br />
 
