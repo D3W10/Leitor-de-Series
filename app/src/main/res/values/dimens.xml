@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="card_margin">15dp</dimen>
+    <dimen name="card_semi_margin">7.5dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+</resources>

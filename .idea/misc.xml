@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/activity_main2.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/activity_serie.xml" value="0.3385416666666667" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/content_scrolling.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/recycler_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/layout/recycler_serie.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/menu/menu_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/menu/menu_serie.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorDeSeries/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3395" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorSeries/app/src/main/res/layout/activity_main.xml" value="0.34193840579710144" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorSeries/app/src/main/res/layout/activity_web.xml" value="0.25" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorSeries/app/src/main/res/layout/recycler_item.xml" value="0.34193840579710144" />
+        <entry key="..\:/Users/danyr/Documents/Projetos/Android Studio/LeitorSeries/app/src/main/res/menu/menu_main.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
